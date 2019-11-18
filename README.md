@@ -1,4 +1,4 @@
-# PrimeNumbersGenerator
+# Prime Numbers Generator
 
 This library contains the C ++ functions that determine whether a number is prime or not. The implemented methods can be classified into two categories:
 
